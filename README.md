@@ -3,6 +3,7 @@ This is the implementation of the [paper](https://arxiv.org/abs/2409.04921)
 
 The git repository has the implementation of the bandwidth allocation problem, which is solved by the game theory. The paper has baseline schema, centralized schema, and distributed schema.
 
+![image](FL.PNG)
 
 ## To run the baseline schema game
 
