@@ -1,10 +1,10 @@
 # Fair Allocation of Bandwidth At Edge Servers For Concurrent Hierarchical Federated Learning
 This is the implementation of the [paper](https://arxiv.org/abs/2409.04921)
 
-The git repository has the implementation of bandwidth allocation problem which solved by the game theory. The paper has baseline schema, centralized schema and distributed schema.
+The git repository has the implementation of the bandwidth allocation problem, which is solved by the game theory. The paper has baseline schema, centralized schema, and distributed schema.
 
 
-#3 To run the baseline schema game
+## To run the baseline schema game
 
 ```bash
 python Game_baseline.py
